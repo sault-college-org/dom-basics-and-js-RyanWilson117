@@ -20,6 +20,7 @@ const Index = () => {
   
   const menu = Menu();
   const contact = Contact();
+  const appetizer = Appetizer();
   
   const link1 = document.getElementById('home');
   link1.addEventListener('click', () => {
